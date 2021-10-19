@@ -1,2 +1,2 @@
 # First-basic-build
-Coding challenge from General Assembly's Dash platform. I built a basic html website for myself with an input field and submit button.
+here are aa few of my builds,  a baasic html website, a few games and a bunch of notes.
