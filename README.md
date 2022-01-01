@@ -1,2 +1,2 @@
 # First-basic-build
-here are aa few of my builds,  a baasic html website, a few games, a tip calculator and a bunch of notes.
+here are a few of my builds,  a basic html website, a few games(python), a tip calculator(python) and a bunch of notes.
